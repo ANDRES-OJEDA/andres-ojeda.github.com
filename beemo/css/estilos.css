@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    background: #3949ab;
+    text-align: center
+}
+
+header h1, p {
+    display: inline-block;
+    width: 400px;
+    color: white;
+    font-weight: 200
+}
+
+.nombre {
+    font-weight: bold
+}
+
+.cintaHeader {
+    background: #f06292;
+    text-align: center;
+    padding: 10px
+}
+
+.contenedorPrincipal {
+    width:960px;
+    margin: 0 auto
+}
+
+.contenedorPrincipal h3 {
+    font-size: 36px;
+    font-weight: 700
+}
+
+.contenedorer-secundario {
+    margin: 50px 0 75px;
+}
+
+.contenedorer-secundario ul {
+    margin-top: 12px;
+    padding: 0
+}
+.contenedorer-secundario ul li {
+    margin-top: 16px
+}
+
+.contTextEducacion {
+    width: 69%;
+    display: inline-block;
+    vertical-align: top
+}
+
+.contImgEducacion {
+    width: 30%;
+    display: inline-block;
+    background: #ededed;
+    text-align: center
+}
+
+.contImgEducacion img {
+    width: 95%;
+    padding: 7px
+}
+
+dt {
+    font-size: 22px;
+    text-transform: uppercase;
+    margin: 36px 0 12px
+}
+
+dd {
+    margin: 10px
+}
